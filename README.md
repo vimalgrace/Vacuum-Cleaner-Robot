@@ -12,3 +12,8 @@ https://user-images.githubusercontent.com/91270314/182155628-186eaac0-3d37-453c-
 Vacuum Cleaner Robot(Floor Detection)
 https://user-images.githubusercontent.com/91270314/182156538-22d26949-394a-494e-aba2-0008b6ddee99.mp4
 
+
+Here is the images for the robot.
+https://drive.google.com/drive/folders/14bqA24ZzzlCEzcGs8VBObAG6jPHldgs9?usp=share_link
+
+
