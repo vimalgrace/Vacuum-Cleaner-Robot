@@ -1,6 +1,23 @@
 # Vacuum-Cleaner-Robot
 This is an automated + bluetooth controlled Advanced Vacuum Cleaner Robot 
 
+Technology Used:
+  * Arduino IDE
+  * C++ Programming
+ 
+Compoents Used:
+  * Arduino UNO R3
+  * Ultrasonic Sensor
+  * L293d Motor driver
+  * HC05 Bluetooth
+  * DC Geared Motor
+  * Infrared Sensor
+  * Sucker Fan
+  * LM7805 Voltage Regulator
+  * Lithium-ion Battery
+  * Servo Motor
+  * Jumper Wires
+  * Ball point wheel
 
 
 
