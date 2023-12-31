@@ -6,7 +6,7 @@ The Automated + Bluetooth Controlled Advanced Vacuum Cleaner Robot is an advance
 - **Robot Controls:** https://user-images.githubusercontent.com/91270314/182155628-186eaac0-3d37-453c-880e-a5f46e72c51e.mp4
 - **Floor Detection:** https://user-images.githubusercontent.com/91270314/182156538-22d26949-394a-494e-aba2-0008b6ddee99.mp4
 - **Images:** https://drive.google.com/drive/folders/14bqA24ZzzlCEzcGs8VBObAG6jPHldgs9?usp=share_link
-- 
+
 ## Components Used
 - **Arduino UNO R3:** The microcontroller board used as the brain of the robot.
 - **Ultrasonic Sensor:** Used for obstacle detection.
