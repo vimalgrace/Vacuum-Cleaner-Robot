@@ -2,6 +2,11 @@
 
 The Automated + Bluetooth Controlled Advanced Vacuum Cleaner Robot is an advanced robotic system designed to autonomously navigate and perform efficient vacuuming tasks. It incorporates various components and technologies, including Arduino IDE, C++ programming, and the following hardware components:
 
+## Model Demonstration
+- **Robot Controls:** https://user-images.githubusercontent.com/91270314/182155628-186eaac0-3d37-453c-880e-a5f46e72c51e.mp4
+- **Floor Detection:** https://user-images.githubusercontent.com/91270314/182156538-22d26949-394a-494e-aba2-0008b6ddee99.mp4
+- **Images:** https://drive.google.com/drive/folders/14bqA24ZzzlCEzcGs8VBObAG6jPHldgs9?usp=share_link
+- 
 ## Components Used
 - **Arduino UNO R3:** The microcontroller board used as the brain of the robot.
 - **Ultrasonic Sensor:** Used for obstacle detection.
@@ -34,12 +39,6 @@ The Automated + Bluetooth Controlled Advanced Vacuum Cleaner Robot is an advance
 3. Open the dedicated mobile app or compatible Bluetooth control app.
 4. Establish a Bluetooth connection with the robot.
 5. Use the app to control the robot's movement, start/stop the vacuum function, and monitor cleaning progress.
-
-## Project link
-- **Robot Controls:** https://user-images.githubusercontent.com/91270314/182155628-186eaac0-3d37-453c-880e-a5f46e72c51e.mp4
-- **Floor Detection:** https://user-images.githubusercontent.com/91270314/182156538-22d26949-394a-494e-aba2-0008b6ddee99.mp4
-- **Images:** https://drive.google.com/drive/folders/14bqA24ZzzlCEzcGs8VBObAG6jPHldgs9?usp=share_link
-
 
 ## Contributing
 Contributions are welcome! Fork the repository, create a new branch, make desired changes, test thoroughly, and submit a pull request.
